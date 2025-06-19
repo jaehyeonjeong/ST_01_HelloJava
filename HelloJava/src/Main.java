@@ -2,6 +2,15 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 
 /*
+Ver.25.06.19_002
+----------------------------------------------
+ submit
+  1. Add HelloJava Source
+  2. Add HelloJava2 Source
+
+
+----------------------------------------------
+
 Ver.25.06.19_001
 ----------------------------------------------
  submit
