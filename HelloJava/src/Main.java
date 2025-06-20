@@ -2,10 +2,12 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 
 /*
-Ver.25.06.20_001
+Ver.25.06.21_001
 ----------------------------------------------
  submit
-  1. Add Comment_Java Source
+  1. Add variable package -> Var1, Var2
+
+
 ----------------------------------------------
 
 Ver.25.06.19_002
