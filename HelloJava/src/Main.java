@@ -2,6 +2,13 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 
 /*
+Ver.25.07.07_001
+----------------------------------------------
+ submit
+  1. Add variable package -> Var7,8
+  2. Add Variable.ex package -> VarExQuestion
+
+----------------------------------------------
 Ver.25.06.21_002
 ----------------------------------------------
  submit
